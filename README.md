@@ -1,2 +1,2 @@
 # spitzer_work
-A simple collection of scripts to analyse fits images from irac instrument from SPITZER infrared telescope.
+A notebook contain code for simple processing of SPITZER images at http://irsa.ipac.caltech.edu/applications/Spitzer/SHA/
